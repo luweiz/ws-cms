@@ -3,5 +3,8 @@
 <%
 response.sendRedirect("/index.html");
 %>
+<div>
+你好，github
+</div>
 </body>
 </html>
