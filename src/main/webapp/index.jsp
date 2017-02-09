@@ -3,6 +3,6 @@
 <%
 response.sendRedirect("/index.html");
 %>
-jjjjj
+哈哈哈
 </body>
 </html>
